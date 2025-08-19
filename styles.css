@@ -35,3 +35,17 @@ h1 {
 .buttons button:hover {
   background: #0056b3;
 }
+
+/* Message field */
+#message-area {
+  margin-top: 1.5rem;
+}
+
+.message-box {
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background: #f9f9f9;
+  font-size: 1rem;
+  color: #333;
+}
