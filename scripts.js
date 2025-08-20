@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const commentBtn = document.getElementById("commentBtn");
+  const commentBtn = document.getElementById("commentsBtn");
   const messageArea = document.getElementById("message-area");
 
   commentBtn.addEventListener("click", () => {
