@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Create a new text field
     const field = document.createElement("div");
     field.className = "message-box";
-    field.textContent = "You clicked comment button";
+    field.textContent = "You clicked comments button";
 
     // Append below buttons
     messageArea.appendChild(field);
